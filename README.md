@@ -1,5 +1,5 @@
 # AplicativoII
 Alunos envolvidos:
 
-Felipe Balzer
+Felipe Balzer,
 Gabriel Metzker Dzeprailidis
